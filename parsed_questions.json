@@ -1,0 +1,32 @@
+[
+    {
+        "question": "1. What is the capital of France?",
+        "options": [
+            "A. Berlin",
+            "B. Madrid",
+            "C. Paris",
+            "D. Lisbon"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "2. Who wrote Hamlet?",
+        "options": [
+            "A. Mark Twain",
+            "B. William Shakespeare",
+            "C. Jane Austen",
+            "D. Charles Dickens"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "3. Who wrote Aadujeevitham?",
+        "options": [
+            "A. Mark Twain",
+            "B. William Shakespeare",
+            "C. Benyamin",
+            "D. Charles Dickens"
+        ],
+        "answer": "c"
+    }
+]
